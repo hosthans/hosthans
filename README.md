@@ -3,6 +3,6 @@
 - ✨ CodingLanguage: Java, Python, PHP
 - 🌱 I’m currently learning Dart and C++!
 - 💞️ I’m looking to collaborate on anything
-- 📫 Reach me via Mail on: hannes.weber@venture-lab.de
+- 📫 Reach me via Mail on: hannibunni12e@gmail.com
 
 Most project are private.
