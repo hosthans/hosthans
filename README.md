@@ -6,6 +6,6 @@
 - Studying computer science while working as IT Admin
 - 🌱 IT-Security
 - 💞️ I’m looking to collaborate on anything
-- 📫 Reach me via Mail on: info@safe-it.net
+- 📫 Reach me via Mail on: hannibunni12e@gmail.com
 
 Most projects are private.
