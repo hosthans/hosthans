@@ -3,7 +3,7 @@
 - Penetration Tester
 - Linux-man
 - ✨ CodingLanguage: Java, Python, PHP, Dart
-- Studying computer science while working as IT Admin
+- Studying computer science
 - 🌱 IT-Security
 - 💞️ I’m looking to collaborate on anything
 - 📫 Reach me via Mail on: hannibunni12e@gmail.com
