@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and CyberSecurity (!but Security does not exist ;-!)!
 - Penetration Tester
 - Linux-man
-- ✨ CodingLanguage: Java, Python, PHP, Dart
+- ✨ CodingLanguage: C, Python, Java, PHP, ...
 - Studying computer science
 - 🌱 IT-Security
 - 💞️ I’m looking to collaborate on anything
