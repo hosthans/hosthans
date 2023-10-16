@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hosthans
-- 👀 I’m interested in Coding and CyberSecurity (!but Security does not exist ;-!)!
+- 👀 AI and Cyber-Security enthusiast
 - Penetration Tester
 - Linux-man
 - ✨ CodingLanguage: C, Python, Java, PHP, ...
