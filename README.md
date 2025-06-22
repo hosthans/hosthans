@@ -1,7 +1,4 @@
 👋 Hi, I’m @hosthans
-- 👀 AI and Cyber-Security enthusiast
-- 👨🏽‍💻 Software Developer
-- ✨ CodingLanguage: C, C++, Python, Java, ...
-- 📫 Reach me via Mail on: hannibunni12e@gmail.com
+- 📫 Reach me via Mail on: info@hannes-weber.de
 
-Most projects are private.
+Most projects are private.⛔️
